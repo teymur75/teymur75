@@ -4,7 +4,7 @@
 <img  alt="Coding" width="100%" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" />
 
 
-- 📫 How to reach me **teymur.rahimli@code.edu.az**
+- 📫 How to reach me **teymurrahimli.vr@gmail.com**
 - Hi I'm working on [Project-Managment](https://projectmanagment20240227151727.azurewebsites.net)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
