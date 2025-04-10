@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [teymurrahimli.az/projects](teymurrahimli.az/projects)
+- 👨‍💻 All of my projects are available at [teymurrahimli.az/projects](https://www.teymurrahimli.az/projects)
 
-- 📝 I regularly write articles on [teymurrahimli.az/blogs](teymurrahimli.az/blogs)
+- 📝 I regularly write articles on [teymurrahimli.az/blogs](https://www.teymurrahimli.az/blogs)
 
 - 💬 Ask me about **C# , Entity Framework Core , React , Typescript and etc**
 
 - 📫 How to reach me **teymurrahimli.vr@gmail.com**
 
-- 📄 Know about my experiences [teymurrahimli.az/experiences](teymurrahimli.az/experiences)
+- 📄 Know about my experiences [teymurrahimli.az/experiences](https://www.teymurrahimli.az/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
