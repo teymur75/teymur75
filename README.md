@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Teymur Rahimli</h1>
 <h3 align="center">Passionate about building scalable web applications | Lifelong learner & tech enthusiast</h3>
-<img  alt="Coding" width="100%" src="https://i.gifer.com/fetch/w300-preview/1b/1b5d5804dfddd70fd4ac233fcef979a9.gif" />
+<img  alt="Coding" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsgif.com%2Fgif%2F2252199&psig=AOvVaw06Z6CfcWeGlaOFMgsZsDHD&ust=1744357281458000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMikx7r7zIwDFQAAAAAdAAAAABBh" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teymur75" alt="teymur75" /></a> </p>
 
