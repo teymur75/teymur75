@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [teymurrahimli.az/projects](teymurrahimli.az/projects)
+- 👨‍💻 All of my projects are available at [teymurrahimli.az/projects](https://www.teymurrahimli.az/projects)
 
 - 📝 I regularly write articles on [teymurrahimli.az/blogs](teymurrahimli.az/blogs)
 
