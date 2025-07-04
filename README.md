@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teymur75" alt="teymur75" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Selection**
+- 🔭 I’m currently working on **Eduguide**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [teymurrahimli.az/projects](https://www.teymurrahimli.az/projects)
+- 👨‍💻 All of my projects are available at [teymurrahimli.az/works.html](https://www.teymurrahimli.az/works.html)
 
-- 📝 I regularly write articles on [teymurrahimli.az/blogs](https://www.teymurrahimli.az/blogs)
+- 📝 I regularly write articles on [teymurrahimli.az/blogs](https://www.teymurrahimli.az/blog.html)
 
 - 💬 Ask me about **C# , Entity Framework Core , React , Typescript and etc**
 
 - 📫 How to reach me **teymurrahimli.vr@gmail.com**
 
-- 📄 Know about my experiences [teymurrahimli.az/experiences](https://www.teymurrahimli.az/experiences)
+- 📄 Know about my experiences [teymurrahimli.az/about.html](https://www.teymurrahimli.az/about.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
