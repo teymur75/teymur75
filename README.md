@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teymur Rahimli</h1>
-<h3 align="center">A passionate frontend developer from InPassionate about building scalable web applications | Lifelong learner & tech enthusiastdia</h3>
+<h3 align="center">Passionate about building scalable web applications | Lifelong learner & tech enthusiast</h3>
 <img  alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teymur75&label=Profile%20views&color=0e75b6&style=flat" alt="teymur75" /> </p>
